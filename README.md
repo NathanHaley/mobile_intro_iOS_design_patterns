@@ -1,4 +1,4 @@
-# Into To iOS Design Patterns
+# Intro To iOS Design Patterns
 
 Covers good examples for the following patterns:
 
