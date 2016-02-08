@@ -43,3 +43,8 @@ https://www.raywenderlich.com/86477/introducing-ios-design-patterns-in-swift-par
 https://www.raywenderlich.com/90773/introducing-ios-design-patterns-in-swift-part-2
 
 Tested with Xcode 7.2, iOS 8, and running on iPhone 6s
+
+Screenshots:
+
+Main Screen:<br>
+<img src="albumAppScreenshot.png" alt="Main Screen" style="width: 200px;" width=200 />
